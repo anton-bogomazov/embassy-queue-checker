@@ -1,0 +1,1 @@
+https://berlin.kdmid.ru/queue/OrderInfo.aspx?id=YOUR_ORDER_ID&cd=YOUR_SAFETY_CODE
